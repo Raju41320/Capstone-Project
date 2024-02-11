@@ -1,1 +1,0 @@
-$("#divid").find(span)
